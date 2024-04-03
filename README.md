@@ -1,17 +1,15 @@
-### Hi there 👋
+<img src="https://github.com/tylerfach/tylerfach/blob/main/images/Header_2.png" alt="Tyler Fach" style="max-width: 100%;">
+I am a problem solver with 10 years of experience in leading teams, experimentation, data science and analytics. Outside of that, I like outdoor adventures, cooking and reading. 
 
-# About Me
-I am a problem solver with 10 years of experience in leading teams, experimentation, data science and analytics. Outside of that, I like outdoor adventures, cooking and reading.
-
-<a href="[URL_REDIRECT](https://www.linkedin.com/in/tyler-fach-56873237/)" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
-LinkedIn
-Personal site
 
 # Projects
-My projects are solutions to real world problems I’ve faced. Please use them and suggest improvements so that we can deliver high quality tools to our fellow data practitioners.
+My projects are solutions to real world problems I’ve faced. Please use and suggest improvements so that we can deliver high quality tools to our fellow data practitioners.
 Table of repos and problems they’ve solved
 
+### In Development
 - **[Sales Forecasting](https://github.com/tylerfach/stochastic-sales-forecast)**: Stochastic model for forecasting revenue from leads along with diagnostic tools for reporting on actual compared to forecast.
+
+### Backlog
 - **[Experimenty]()**: Library for better experimentation analysis and reporting.
 - **[Experiment Design]()**: Guided walkthrough for experiment design.
 
