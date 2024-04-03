@@ -3,7 +3,7 @@
 # About Me
 I am a problem solver with 10 years of experience in leading teams, experimentation, data science and analytics. Outside of that, I like outdoor adventures, cooking and reading.
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="[URL_REDIRECT](https://www.linkedin.com/in/tyler-fach-56873237/)" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 LinkedIn
 Personal site
 
