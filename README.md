@@ -4,7 +4,6 @@ I am a problem solver with 10 years of experience in leading teams, experimentat
 
 # Projects
 My projects are solutions to real world problems I’ve faced. Please use and suggest improvements so that we can deliver high quality tools to our fellow data practitioners.
-Table of repos and problems they’ve solved
 
 ### In Development
 - **[Sales Forecasting](https://github.com/tylerfach/stochastic-sales-forecast)**: Stochastic model for forecasting revenue from leads along with diagnostic tools for reporting on actual compared to forecast.
