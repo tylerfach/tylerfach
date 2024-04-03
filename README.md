@@ -3,6 +3,7 @@
 # About Me
 I am a problem solver with 10 years of experience in leading teams, experimentation, data science and analytics. Outside of that, I like outdoor adventures, cooking and reading.
 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 LinkedIn
 Personal site
 
@@ -11,7 +12,8 @@ My projects are solutions to real world problems I’ve faced. Please use them a
 Table of repos and problems they’ve solved
 
 - **[Sales Forecasting](https://github.com/tylerfach/stochastic-sales-forecast)**: Stochastic model for forecasting revenue from leads along with diagnostic tools for reporting on actual compared to forecast.
-- **[Experimenty]()**: *Planned* Library for better experimentation analysis and reporting
+- **[Experimenty]()**: Library for better experimentation analysis and reporting.
+- **[Experiment Design]()**: Guided walkthrough for experiment design.
 
 <!--
 **tylerfach/tylerfach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
