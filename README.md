@@ -12,6 +12,14 @@ My projects are solutions to real world problems I’ve faced. Please use and su
 - **[Experimenty]()**: Library for better experimentation analysis and reporting.
 - **[Experiment Design]()**: Guided walkthrough for experiment design.
 
+
+## External Resources
+*Others repositories and packages I've found helpful*
+
+- **[pymc-marketing](https://github.com/pymc-labs/pymc-marketing):** the successor to the [lifetimes](https://github.com/CamDavidsonPilon/lifetimes/tree/master?tab=readme-ov-file) packake that covers the BG/NBD ("Buy till you die") model for customer lifetime value. This is where I would start for a modeling customer lifetime value.
+  - [Academic Paper](https://brucehardie.com/papers/018/fader_et_al_mksc_05.pdf), [Etsy presentation](https://cdn.oreillystatic.com/en/assets/1/event/85/Case%20Study_%20What_s%20a%20Customer%20Worth_%20Presentation.pdf)
+  - 
+
 <!--
 **tylerfach/tylerfach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
