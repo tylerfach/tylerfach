@@ -11,7 +11,7 @@ My projects are solutions to real world problems I’ve faced. Please use and su
 ### Backlog
 - **[Experimenty]()**: Library for better experimentation analysis and reporting.
 - **[Experiment Design]()**: Guided walkthrough for experiment design.
-
+- **[Darn Good Plots]()**: Reference for Matplotlib to make useful and visually elegant plots easy to produce.
 
 ## External Resources
 *Others repositories and packages I've found helpful*
